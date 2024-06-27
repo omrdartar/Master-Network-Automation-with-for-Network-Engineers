@@ -47,6 +47,7 @@
 # region Program-5 Math Üçgenin alanını hesaplama
 
 # # Input two variabLes
+
 # a = input ( "Enter the value of the first variable (a): ")
 # b = input("Enter the value of the second variable (b): ")
 # # DispLay the original. vaLues
