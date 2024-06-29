@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba534979-d6dd-42b9-ab3f-e81e92d0e2d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/OOP_Turtle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opening_and_reading_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reading_files_into_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/with_statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/writing_to_text_files.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nested_if-else_elif.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nested_if-else_elif.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +30,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/TestDeneme.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/OOP_Turtle.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -40,14 +47,20 @@
   "keyToString": {
     "Python.Assigment_Operator.executor": "Run",
     "Python.Basic-Python-Programs-140.executor": "Run",
+    "Python.Nested_if-else_elif.executor": "Run",
+    "Python.OOP_Turtle.executor": "Run",
     "Python.TestDeneme.executor": "Run",
     "Python.Variables.executor": "Run",
     "Python.conditional_statements.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.opening_and_reading_files.executor": "Run",
+    "Python.reading_files_into_list.executor": "Run",
+    "Python.with_statement.executor": "Run",
+    "Python.writing_to_text_files.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "YeniPC",
     "last_opened_file_path": "C:/Users/omerd/Devnet",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RunManager">
