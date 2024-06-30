@@ -23,4 +23,3 @@ with open('configuration.txt') as file:
 
 
 
-
