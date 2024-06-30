@@ -84,6 +84,12 @@ with open('configuration.txt') as f:
 
 
 
+# iterate over a file
+
+with open('configuration.txt') as f:
+    for line in f:
+        print(line, end='')
+
 
 
 

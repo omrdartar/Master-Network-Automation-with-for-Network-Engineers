@@ -6,11 +6,18 @@ content = f.read(5)
 
 print(content)
 
+
+
 content = f.read(3)
 # Burada artık bir üstteki çıktıda 5 byte ileri gittiğimiz için oradan itibaren 3 byte ilerisini gösterir.
 print(content)
 
 print(f.tell())
+
+f.close()
+
+print(f.closed)
+
 
 # f.tell(): Dosya işaretçisinin mevcut konumunu döner.
 # Bu konum, dosyanın başından itibaren kaç byte  ileride olunduğunu gösterir.
