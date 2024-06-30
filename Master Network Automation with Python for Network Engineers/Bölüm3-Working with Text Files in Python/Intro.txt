@@ -1,0 +1,91 @@
+open() bir dosya nesnesine döndürür.
+open('file_path', 'mode', encodding='enc_scheme')
+
+
+
+Bu ifade, Python'da dosya açma işlemi için kullanılan open fonksiyonunu gösterir.
+Bu fonksiyon, bir dosyayı belirtilen yolda, belirtilen modda ve belirtilen karakter kodlaması ile açar.
+İşte bu ifadenin elemanlarının ne anlama geldiğini açıklayalım:
+
+Genel Yapı
+
+open('file_path', 'mode', encoding='enc_scheme')
+
+Parametreler
+
+file_path: Dosyanın yolunu belirtir. Bu, dosyanın bilgisayarınızda bulunduğu tam yolu veya göreceli yolu olabilir. Örneğin:
+
+'data.txt' (aynı dizindeki bir dosya)
+'C:/Users/Username/Documents/data.txt' (tam yol)
+
+mode: Dosyanın nasıl açılacağını belirtir. Yaygın modlar şunlardır:
+
+'r': Okuma modu. Dosya yalnızca okuma için açılır. Dosya mevcut değilse hata verir.
+'r+': Okuma ve yazma moduda kullanılabilir.
+'w': Yazma modu. Dosya yazma için açılır. Dosya mevcutsa içeriği silinir, mevcut değilse yeni dosya oluşturulur.
+'a': Ekleme modu. Dosya ekleme için açılır. Dosya mevcut değilse yeni dosya oluşturulur.
+'b': İkili mod. Okuma veya yazma işlemlerini ikili modda yapmak için kullanılır (örneğin, 'rb' veya 'wb').
+
+
+encoding: Dosyanın hangi karakter kodlamasıyla açılacağını belirtir. Bu parametre özellikle metin dosyaları için önemlidir.
+Yaygın kodlama şemaları şunlardır:
+
+'utf-8': Unicode Transformation Format - 8 bit. Günümüzde en yaygın kullanılan karakter kodlamasıdır.
+'ascii': American Standard Code for Information Interchange. Sadece İngilizce karakterleri içerir.
+'latin-1' veya 'iso-8859-1': Batı Avrupa dilleri için kullanılan kodlama.
+
+Örnekler
+
+Dosyayı Okuma Modunda Açma:
+
+with open('data.txt', 'r', encoding='utf-8') as file:
+    content = file.read()
+    print(content)
+
+data.txt dosyasını UTF-8 kodlamasıyla okuma modunda açar ve içeriğini okur.
+
+
+Dosyayı Yazma Modunda Açma:
+
+with open('data.txt', 'w', encoding='utf-8') as file:
+    file.write('Hello, World!')
+data.txt dosyasını UTF-8 kodlamasıyla yazma modunda açar ve içine "Hello, World!" yazar.
+Dosyayı Ekleme Modunda Açma:
+
+
+
+with open('data.txt', 'a', encoding='utf-8') as file:
+    file.write('\nAppended line')
+data.txt dosyasını UTF-8 kodlamasıyla ekleme modunda açar ve dosyanın sonuna yeni bir satır ekler.
+Bu şekilde, open fonksiyonu kullanılarak dosyalar farklı modlarda ve kodlamalarla açılabilir ve istenilen işlemler gerçekleştirilebilir.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

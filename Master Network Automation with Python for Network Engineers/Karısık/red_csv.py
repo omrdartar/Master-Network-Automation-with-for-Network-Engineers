@@ -62,8 +62,8 @@ year_1958[row[0]] = row[1]: Satırın ilk elemanını (örneğin ay adı) anahta
 
     4-En Yoğun Ayı Bulma ve Yazdırma:
 
-python
-Copy code
+
+
 for k, v in year_1958.items():
     if max_1958 == v:
         print(f'Busiest Month in 1958: {k}, Flights:{v.strip()}')
@@ -90,10 +90,10 @@ max_1958 = max(year_1958.values()): Sözlükteki değerler (1958 yılı yolcu sa
 
 print(max_1958): En yüksek yolcu sayısını yazdırır.
 
-Örnek bir airtravel.csv dosyası şu şekilde olabilir:
 
-sql
-Copy code
+    -Örnek bir airtravel.csv dosyası şu şekilde olabilir:
+
+
 Month,1958,1959,1960
 JAN,340,360,417
 FEB,318,342,391
@@ -109,8 +109,7 @@ NOV,310,362,390
 DEC,337,405,432
 Bu dosya ile çalıştırıldığında, kod şu çıktıyı verecektir:
 
-arduino
-Copy code
+
 {'JAN': '340', 'FEB': '318', 'MAR': '362', 'APR': '348', 'MAY': '363', 'JUN': '435', 'JUL': '491', 'AUG': '505', 'SEP': '404', 'OCT': '359', 'NOV': '310', 'DEC': '337'}
 505
 Özetle, bu kod:

@@ -5,14 +5,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba534979-d6dd-42b9-ab3f-e81e92d0e2d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airtravel.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_file_proccessin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/red_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/Intro.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/absolute__and__relative_paths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/airtravel.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/configuration.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/devices.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/openning__and__reading_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/people.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/reading_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/settings.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/with_statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/Assigment_Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/Nested_if-else_elif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/OOP_Turtle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/Variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/airtravel.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/comments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/conditional_statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/configuration.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/devices.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/myfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/opening_and_reading_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/project_file_proccessin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/reading_files_into_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/red_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/with_statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/writing_to_text_files.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/myfile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reading_files_into_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/reading_files_into_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/writing_to_text_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/writing_to_text_files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assigment_Operator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nested_if-else_elif.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Turtle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/airtravel.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comments.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditional_statements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/devices.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myfile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opening_and_reading_files.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_file_proccessin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reading_files_into_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/red_csv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/with_statement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/writing_to_text_files.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,10 +69,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/OOP_Turtle.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/project_file_proccessin.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/red_csv.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/writing_to_text_files.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/absolute__and__relative_paths.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/reading_files.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -56,11 +93,14 @@
     "Python.Test.executor": "Run",
     "Python.TestDeneme.executor": "Run",
     "Python.Variables.executor": "Run",
+    "Python.absolute__and__relative_paths.executor": "Run",
     "Python.conditional_statements.executor": "Run",
     "Python.main.executor": "Run",
     "Python.opening_and_reading_files.executor": "Run",
+    "Python.openning__and__reading_files.executor": "Run",
     "Python.project_file_proccessin.executor": "Run",
     "Python.project_file_processing.executor": "Run",
+    "Python.reading_files.executor": "Run",
     "Python.reading_files_into_list.executor": "Run",
     "Python.red_csv.executor": "Run",
     "Python.with_statement.executor": "Run",
@@ -115,16 +155,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
