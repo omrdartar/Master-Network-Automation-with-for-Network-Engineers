@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba534979-d6dd-42b9-ab3f-e81e92d0e2d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/Simplify_Sterilization_Json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/a.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/a.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm6-Network Automation with Paramiko/paramiko_connect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm6-Network Automation with Paramiko/paramiko_connect_kwargs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm6-Network Automation with Paramiko/paramiko_execute_commands_cisco.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/friends.json" beforeDir="false" afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/friends.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +61,9 @@
     "Python.main.executor": "Run",
     "Python.opening_and_reading_files.executor": "Run",
     "Python.openning__and__reading_files.executor": "Run",
+    "Python.paramiko_connect.executor": "Run",
+    "Python.paramiko_connect_kwargs.executor": "Run",
+    "Python.paramiko_execute_commands_cisco.executor": "Run",
     "Python.pdf.executor": "Run",
     "Python.pdf2.executor": "Run",
     "Python.project__file__processing.executor": "Run",
@@ -79,6 +80,7 @@
     "Python.writing_to_text_files.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "YeniPC",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/omerd/Devnet",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
