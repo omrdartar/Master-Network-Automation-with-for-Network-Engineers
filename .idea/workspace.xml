@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba534979-d6dd-42b9-ab3f-e81e92d0e2d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/csv_writer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/myfile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/numbers.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/project__file__processing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/read__csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/writing_to_text__files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/pdf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/pdf2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/refsd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/configuration.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/configuration.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/people.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/people.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/reading__files__into__list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/reading__files__into__list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/reading_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/reading_files.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/configuration.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/configuration.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/myfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/myfile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/writing_to_text_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/writing_to_text_files.py" afterDir="false" />
-    </list>
+    <list default="true" id="ba534979-d6dd-42b9-ab3f-e81e92d0e2d3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
