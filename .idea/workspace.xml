@@ -5,10 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba534979-d6dd-42b9-ab3f-e81e92d0e2d3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Devnet-Project" beforeDir="false" afterPath="$PROJECT_DIR$/Devnet-Project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Devnet-Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Devnet-Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Devnet-Project/Basic-Python-Programs-140.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Devnet-Project/TestDeneme.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/csv_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/myfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/numbers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/project__file__processing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/read__csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/writing_to_text__files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/pdf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/pdf2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/refsd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/configuration.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/configuration.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/people.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/people.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/reading__files__into__list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/reading__files__into__list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/reading_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/reading_files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/configuration.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/configuration.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/myfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/myfile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/writing_to_text_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Karısık/writing_to_text_files.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +39,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/TestDeneme.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/absolute__and__relative_paths.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/csv_writer.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/read__csv.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/reading_files.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -41,15 +57,38 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.Assigment_Operator.executor": "Run",
     "Python.Basic-Python-Programs-140.executor": "Run",
+    "Python.Nested_if-else_elif.executor": "Run",
+    "Python.OOP_Turtle.executor": "Run",
+    "Python.Test.executor": "Run",
     "Python.TestDeneme.executor": "Run",
     "Python.Variables.executor": "Run",
+    "Python.absolute__and__relative_paths.executor": "Run",
     "Python.conditional_statements.executor": "Run",
+    "Python.csv_writer.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.opening_and_reading_files.executor": "Run",
+    "Python.openning__and__reading_files.executor": "Run",
+    "Python.pdf.executor": "Run",
+    "Python.pdf2.executor": "Run",
+    "Python.project__file__processing.executor": "Run",
+    "Python.project_file_proccessin.executor": "Run",
+    "Python.project_file_processing.executor": "Run",
+    "Python.read__csv.executor": "Run",
+    "Python.reading__files__into__list.executor": "Run",
+    "Python.reading_files.executor": "Run",
+    "Python.reading_files_into_list.executor": "Run",
+    "Python.red_csv.executor": "Run",
+    "Python.refsd.executor": "Run",
+    "Python.with_statement.executor": "Run",
+    "Python.writing_to_text__files.executor": "Run",
+    "Python.writing_to_text_files.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/T-SYSTEM/PycharmProjects/Master Network Automation with Python for Network Engineers"
+    "git-widget-placeholder": "YeniPC",
+    "last_opened_file_path": "C:/Users/omerd/Devnet",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RunManager">
@@ -75,6 +114,56 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="read__csv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Devnet-Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/read__csv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="writing_to_text__files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Devnet-Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/writing_to_text__files.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.read__csv" />
+        <item itemvalue="Python.writing_to_text__files" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -94,15 +183,7 @@
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
