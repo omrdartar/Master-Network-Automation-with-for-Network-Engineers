@@ -5,10 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba534979-d6dd-42b9-ab3f-e81e92d0e2d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/csv_dialects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/items.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/passwd.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/MAC_address.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/Odevler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/Working_with_CSV_Files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/assigment_answer_file_processing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/devicess.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/friends.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/friends.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/json_assigments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/json_serilization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/mac_unique.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/sample_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/sterilization_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/sterilization_pickle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/csv_dialects.py" beforeDir="false" afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/csv_dialects.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/items.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/items.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/people.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/people.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,10 +40,12 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/absolute__and__relative_paths.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/assigment_answer_file_processing.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/csv_dialects.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/csv_writer.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/read__csv.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/reading_files.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/sterilization_json.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -51,13 +65,17 @@
     "Python.Basic-Python-Programs-140.executor": "Run",
     "Python.Nested_if-else_elif.executor": "Run",
     "Python.OOP_Turtle.executor": "Run",
+    "Python.Odevler.executor": "Run",
     "Python.Test.executor": "Run",
     "Python.TestDeneme.executor": "Run",
     "Python.Variables.executor": "Run",
+    "Python.Working_with_CSV_Files.executor": "Run",
     "Python.absolute__and__relative_paths.executor": "Run",
+    "Python.assigment_answer_file_processing.executor": "Run",
     "Python.conditional_statements.executor": "Run",
     "Python.csv_dialects.executor": "Run",
     "Python.csv_writer.executor": "Run",
+    "Python.json_assigments.executor": "Run",
     "Python.main.executor": "Run",
     "Python.opening_and_reading_files.executor": "Run",
     "Python.openning__and__reading_files.executor": "Run",
@@ -72,6 +90,8 @@
     "Python.reading_files_into_list.executor": "Run",
     "Python.red_csv.executor": "Run",
     "Python.refsd.executor": "Run",
+    "Python.sterilization_json.executor": "Run",
+    "Python.sterilization_pickle.executor": "Run",
     "Python.with_statement.executor": "Run",
     "Python.writing_to_text__files.executor": "Run",
     "Python.writing_to_text_files.executor": "Run",
@@ -82,7 +102,7 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.csv_dialects">
+  <component name="RunManager">
     <configuration name="csv_dialects" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Devnet-Project" />
       <option name="ENV_FILES" value="" />
