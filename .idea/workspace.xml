@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba534979-d6dd-42b9-ab3f-e81e92d0e2d3" name="Changes" comment="" />
+    <list default="true" id="ba534979-d6dd-42b9-ab3f-e81e92d0e2d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/Simplify_Sterilization_Json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/a.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/friends.json" beforeDir="false" afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/friends.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,12 +51,15 @@
     "Python.Basic-Python-Programs-140.executor": "Run",
     "Python.Nested_if-else_elif.executor": "Run",
     "Python.OOP_Turtle.executor": "Run",
+    "Python.Simplify_Sterilization_Json.executor": "Run",
     "Python.Test.executor": "Run",
     "Python.TestDeneme.executor": "Run",
     "Python.Variables.executor": "Run",
     "Python.absolute__and__relative_paths.executor": "Run",
     "Python.conditional_statements.executor": "Run",
     "Python.csv_writer.executor": "Run",
+    "Python.json_assigments.executor": "Run",
+    "Python.json_serilization.executor": "Run",
     "Python.main.executor": "Run",
     "Python.opening_and_reading_files.executor": "Run",
     "Python.openning__and__reading_files.executor": "Run",
@@ -74,6 +84,28 @@
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="Simplify_Sterilization_Json" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Devnet-Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/Simplify_Sterilization_Json.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Devnet-Project" />
       <option name="ENV_FILES" value="" />
@@ -142,6 +174,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Simplify_Sterilization_Json" />
         <item itemvalue="Python.read__csv" />
         <item itemvalue="Python.writing_to_text__files" />
       </list>
