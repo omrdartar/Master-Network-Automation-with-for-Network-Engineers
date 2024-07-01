@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba534979-d6dd-42b9-ab3f-e81e92d0e2d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assigment_Operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nested_if-else_elif.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional_statements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic-Python-Programs-140.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devnet-Project" beforeDir="false" afterPath="$PROJECT_DIR$/Devnet-Project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Devnet-Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Devnet-Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestDeneme.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devnet-Project/Basic-Python-Programs-140.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devnet-Project/TestDeneme.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
