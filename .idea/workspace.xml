@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba534979-d6dd-42b9-ab3f-e81e92d0e2d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm6-Network Automation with Paramiko/paramiko_connect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm6-Network Automation with Paramiko/paramiko_connect_kwargs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm6-Network Automation with Paramiko/paramiko_execute_commands_cisco.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm6-Network Automation with Paramiko/paramiko_execute_commands_cisco_getpass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm6-Network Automation with Paramiko/paramiko_multiple_routers_ospf.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +29,7 @@
     <setting file="file://$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/csv_writer.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/read__csv.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm3-Working with Text Files in Python/reading_files.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Master Network Automation with Python for Network Engineers/Bölüm6-Network Automation with Paramiko/paramiko_multiple_routers_ospf.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -64,6 +64,8 @@
     "Python.paramiko_connect.executor": "Run",
     "Python.paramiko_connect_kwargs.executor": "Run",
     "Python.paramiko_execute_commands_cisco.executor": "Run",
+    "Python.paramiko_execute_commands_cisco_getpass.executor": "Run",
+    "Python.paramiko_multiple_routers_ospf.executor": "Run",
     "Python.pdf.executor": "Run",
     "Python.pdf2.executor": "Run",
     "Python.project__file__processing.executor": "Run",
