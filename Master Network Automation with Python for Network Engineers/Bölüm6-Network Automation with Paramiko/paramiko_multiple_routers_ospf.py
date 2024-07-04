@@ -41,9 +41,7 @@ for router in routers:
     print(output)
 
     # Bağlantının aktif olup olmadığını kontrol etme ve kapatma
-    if ssh_client.get_transport().is_active():
-        print('Closing connection...')
-        ssh_client.close()
+c
 
 
 
