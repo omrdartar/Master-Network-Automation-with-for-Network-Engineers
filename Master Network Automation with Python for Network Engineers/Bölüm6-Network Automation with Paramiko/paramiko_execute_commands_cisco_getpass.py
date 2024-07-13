@@ -10,10 +10,10 @@ ssh_client = paramiko.SSHClient()
 ssh_client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
 
 # Kullanıcıdan güvenli bir şekilde parola isteme
-password = getpass.getpass('Enter password:')
+passwd = getpass.getpass('Enter password:')
 
 # SSH bağlantısını kurmak için gereken parametreleri bir sözlük (dictionary) olarak tanımlama
-router = {'hostname': '10.1.1.10', 'port': '22', 'username': 'u1', 'password': password}
+router = {'hostname': '192.168.146.10', 'port': '22', 'username': 'admin', 'password': passwd}
 
 # Kullanıcıya SSH bağlantısı kurulacağını belirten bir bilgi mesajı yazdırma
 print(f'Connecting to {router["hostname"]}')
@@ -27,7 +27,7 @@ shell = ssh_client.invoke_shell()
 # Uzak cihazda komutları çalıştırmak için komut gönderme
 # Her komut '\n' ile biter (yeni satır, enter tuşu)
 shell.send('terminal length 0\n')  # Çıktının sayfalara bölünmesini engeller
-shell.send('show version\n')       # Cihazın yazılım versiyonunu gösterir
+
 shell.send('show ip int brief\n')  # IP arabirimlerinin özetini gösterir
 
 # Uzak cihazın komutları çalıştırmasını beklemek için bekleme süresi (zorunlu)
@@ -39,6 +39,10 @@ output = shell.recv(10000)  # Çıkış tamponundan 10000 byte okuma
 # Okunan veriyi bayt türünden string türüne dönüştürme
 output = output.decode('utf-8')
 print(output)
+
+
+with open('sh_ip_int_brief.txt', 'w') as f:
+    f.write(output)
 
 # Bağlantı aktifse kapatma
 if ssh_client.get_transport().is_active() == True:
