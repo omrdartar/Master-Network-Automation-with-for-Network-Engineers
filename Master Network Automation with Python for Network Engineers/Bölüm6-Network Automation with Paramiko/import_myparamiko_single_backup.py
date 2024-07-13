@@ -32,8 +32,21 @@ output = myparamiko.show(shell)
 output_list = output.splitlines()  # Çıktıyı satır satır ayır
 output = '\n'.join(output_list)    # Satırları yeniden birleştir
 
+
+from  datetime import datetime
+
+now = datetime.now()
+year = now.year
+month = now.month
+day = now.day
+hour = now.hour
+minute = now.minute
+
+file_name = f'{router1['server_ip']}_{year}-{month}-{day}.txt'
+print(file_name)
+
 # Çıktının Dosyaya Yazılması
-with open('router1-backup.txt', 'w') as f:
+with open(file_name, 'w') as f:
     f.write(output)  # İşlenmiş çıktıyı dosyaya yaz
 
 # Bağlantının Kapatılması

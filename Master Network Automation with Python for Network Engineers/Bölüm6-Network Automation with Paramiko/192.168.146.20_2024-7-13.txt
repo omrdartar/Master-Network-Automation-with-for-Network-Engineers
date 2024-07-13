@@ -7,8 +7,8 @@
 * purposes is expressly prohibited except as otherwise authorized by     *
 * Cisco in writing.                                                      *
 **************************************************************************
-R1#terminal len 0
-R1#show run
+R2#terminal len 0
+R2#show run
 Building configuration...
 
   
@@ -19,7 +19,7 @@ service timestamps debug datetime msec
 service timestamps log datetime msec
 no service password-encryption
 !
-hostname R1
+hostname R2
 !
 boot-start-marker
 boot-end-marker
@@ -75,7 +75,7 @@ redundancy
 !
 !
 interface GigabitEthernet0/0
- ip address 192.168.146.10 255.255.255.0
+ ip address 192.168.146.20 255.255.255.0
  duplex auto
  speed auto
  media-type rj45
@@ -154,4 +154,4 @@ no scheduler allocate
 !
 end
 
-R1#
+R2#
